@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas>=1.5
+requests>=2.25
+matplotlib>=3.5
+pillow>=9.0
+numpy>=1.21
+
